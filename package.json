@@ -5,6 +5,10 @@
   "author": "Nemanja Kuzmanovic",
   "private": true,
   "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/denrion/nestjs-template"
+  },
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
